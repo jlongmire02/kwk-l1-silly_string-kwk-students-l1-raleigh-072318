@@ -7,5 +7,5 @@ while counter < 1000
   if counter % 2 == 1
     puts "#{counter}"
   end 
-  counter = counter + 1
+  counter += 1
 end 
