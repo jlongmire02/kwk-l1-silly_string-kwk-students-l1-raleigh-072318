@@ -2,3 +2,7 @@
 # puts out ONLY the add numbers in this range
 # this is a review of loops using modulo
 
+counter = 1
+while counter < 1000
+  
+  
