@@ -4,5 +4,7 @@
 
 counter = 1
 while counter < 1000
-  
-  
+  if counter % 2 == 1
+    puts "#{counter}"
+  end 
+end 
